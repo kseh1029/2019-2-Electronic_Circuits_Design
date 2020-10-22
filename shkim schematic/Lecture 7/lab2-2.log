@@ -1,0 +1,22 @@
+Circuit: * D:\shkim\20191015\lab2-2.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Tue Oct 15 16:35:07 2019
+Total elapsed time: 0.390 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 27029
+traniter = 27016
+tranpoints = 13369
+accept = 12600
+rejected = 769
+matrix size = 63
+fillins = 114
+solver = Normal
+Matrix Compiler1: 9.03KB object code size  1.2/0.5/[0.3]
+Matrix Compiler2: 7.14KB object code size  0.5/0.6/[0.3]
+
+
