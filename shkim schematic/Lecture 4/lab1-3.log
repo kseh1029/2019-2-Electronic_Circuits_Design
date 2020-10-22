@@ -1,0 +1,22 @@
+Circuit: * C:\Users\KIM\Desktop\shkim\Lecture 4\lab1-3.asc
+
+V2: Missing value, assumed 0V @ DC
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Oct 20 21:15:05 2019
+Total elapsed time: 0.670 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 20955
+traniter = 20942
+tranpoints = 10441
+accept = 10350
+rejected = 91
+matrix size = 36
+fillins = 38
+solver = Normal
+Matrix Compiler1: 3.37 KB object code size  1.8/0.7/[0.5]
+Matrix Compiler2: 3.51 KB object code size  0.7/0.9/[0.7]
+
