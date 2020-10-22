@@ -1,0 +1,37 @@
+Circuit: * D:\shkim\20191126\lab2.asc
+
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Direct Newton iteration for .op point succeeded.
+
+Date: Tue Nov 26 17:19:26 2019
+Total elapsed time: 1.031 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 42517
+traniter = 42478
+tranpoints = 13895
+accept = 12714
+rejected = 1181
+matrix size = 38
+fillins = 16
+solver = Normal
+Thread vector: 28.0/11.0[4] 7.1/2.9[4] 2.1/1.1[4] 0.1/0.8[1]  2592/500
+Matrix Compiler1: 4.22KB object code size  0.6/0.4/[0.3]
+Matrix Compiler2: 4.56KB object code size  0.3/0.5/[0.3]
+
+
